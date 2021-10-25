@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Area de Todos" skipped="0" tests="2" time="7.14" timestamp="2021-10-25 05:34:33"><testcase name="visualizar de forma exitoso"><failure message="&#10;Expected: &quot;fugiat veniam minus&quot;&#10;     but: was &quot;aliquid amet impedit consequatur aspernatur placeat eaque fugiat suscipit&quot;" type="java.lang.AssertionError">
+Expected: "fugiat veniam minus"
+     but: was "aliquid amet impedit consequatur aspernatur placeat eaque fugiat suscipit"</failure><system-err>
+Expected: "fugiat veniam minus"
+     but: was "aliquid amet impedit consequatur aspernatur placeat eaque fugiat suscipit"&#13;
+co.com.sofka.stepdefinition.placeholder.todos.TodosStepDefinition.elUsuarioDeberaVerElModuloDeTodos(TodosStepDefinition.java:74)&#13;
+✽.el usuario debera ver el modulo de Todos(file:///C:/Users/Usuario/IdeaProjects/restTodos/serviciosrest/src/test/resources/features.Placeholder/todos.feature:12)&#13;
+</system-err></testcase><testcase name="visualizacion no exitosa"/></testsuite>

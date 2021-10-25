@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Albun de fotos" skipped="0" tests="1" time="6.49" timestamp="2021-10-25 02:59:51"><testcase name="get exitoso"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+co.com.sofka.stepdefinition.placeholder.todos.TodosStepDefinition.cuandoElUsuarioQuiereVerEspecificamenteElAlgunAlbun(TodosStepDefinition.java:45)&#13;
+✽.cuando el usuario quiere ver especificamente el algun albun(file:///C:/Users/Usuario/IdeaProjects/restTodos/RestAlbun-main/src/test/resources/features.Placeholder/todos.feature:12)&#13;
+</system-err></testcase></testsuite>
